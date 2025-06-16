@@ -35,7 +35,7 @@ cd student-performance-prediction
 pip install -r requirements.txt
 
 
-python model_train_and_visualize.py
+python model_train_and_visualize.ipynb
 
 
 
